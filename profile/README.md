@@ -13,3 +13,6 @@ Blog personal para ser crack en software
 - Scraping
 - Automation
 - Architecture
+- AI
+
+  Agentic
